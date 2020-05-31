@@ -1,6 +1,9 @@
 # Keylogger
 Just A Simple Keylogger Written In Python Using Keyboard Library
 
+## Issues On Keyboard Lib
+- As You Could See Your Can Not Use Replace Or Do Anthing Here On Ketboard Event After Record I Solve This Proplem By Just Change The List Item To Regular String Using ```str()``` Function On Python, I Hope That Will Help You. 
+
 ## Notes
 - Required Root Access And You Need Root Access Too To Remove Log File On ' /etc/keys '.
 - Requires Internet Connection For Send Emails
