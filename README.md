@@ -11,4 +11,5 @@ Just A Simple Keylogger Written In Python Using Keyboard Library
 - if You Have Not See Any Errors Your Could Run The File On Dist Folder.
 - Do Not Forget To Edit The Code To Start Send Email Stuff On SendData() Function And Add It To Main Function To Send Data After Collect And Filters
 - Click ' Esc ' To Stop Record Input And Save Data
+- Only For Linux Systems
 - Use It As You Want.
